@@ -1,3 +1,7 @@
+// The Vehicle object is a Braitenberg vehicle with synthetic virtual senses
+// and reacts to changes in the enviroinment by analysing it
+// In this case the vehicle follows the mouse with a maximum speed and maximum applicable force
+
 class Vehicle {
     constructor(origin_x, origin_y) {
         this.location = createVector(origin_x, origin_y);
