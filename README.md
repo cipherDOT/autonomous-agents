@@ -35,7 +35,5 @@ physics engine:
         this.apply_force(steering_force);
     }
   ```
-
-topic 1 - https://cipherdot.github.io/autonomous-agents/
  
   
